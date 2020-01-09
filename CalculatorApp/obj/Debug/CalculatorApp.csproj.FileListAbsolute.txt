@@ -1,0 +1,5 @@
+C:\Users\seb\source\repos\CalculatorApp\bin\Debug\CalculatorApp.dll
+C:\Users\seb\source\repos\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\seb\source\repos\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\seb\source\repos\CalculatorApp\obj\Debug\CalculatorApp.dll
+C:\Users\seb\source\repos\CalculatorApp\obj\Debug\CalculatorApp.pdb
